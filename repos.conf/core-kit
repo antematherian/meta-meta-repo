@@ -1,0 +1,9 @@
+[DEFAULT]
+main-repo = core-kit
+
+[core-kit]
+location = /var/git/core-kit
+sync-type = git
+sync-uri = https://github.com/funtoo/core-kit
+sync-branch = 1.0-prime
+auto-sync = yes

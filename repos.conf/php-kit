@@ -1,0 +1,6 @@
+[php-kit]
+location = /var/git/php-kit
+sync-type = git
+sync-uri = https://github.com/funtoo/php-kit
+sync-branch = 7.1.3-prime
+auto-sync = yes

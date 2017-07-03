@@ -1,0 +1,6 @@
+[security-kit]
+location = /var/git/security-kit
+sync-type = git
+sync-uri = https://github.com/funtoo/security-kit
+sync-branch = 1.0-prime
+auto-sync = yes

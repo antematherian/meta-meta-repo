@@ -1,6 +1,0 @@
-[editors-kit]
-location = /var/git/editors-kit
-sync-type = git
-sync-uri = https://github.com/funtoo/editors-kit
-sync-branch = master
-auto-sync = yes

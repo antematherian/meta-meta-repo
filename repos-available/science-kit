@@ -1,6 +1,0 @@
-[science-kit]
-location = /var/git/science-kit
-sync-type = git
-sync-uri = https://github.com/funtoo/science-kit
-sync-branch = master
-auto-sync = yes

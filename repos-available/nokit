@@ -1,6 +1,0 @@
-[nokit]
-location = /var/git/nokit
-sync-type = git
-sync-uri = https://github.com/funtoo/nokit
-sync-branch = master
-auto-sync = yes

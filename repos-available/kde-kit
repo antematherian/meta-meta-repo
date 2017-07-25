@@ -1,6 +1,0 @@
-[kde-kit]
-location = /var/git/kde-kit
-sync-type = git
-sync-uri = https://github.com/funtoo/kde-kit
-sync-branch = master
-auto-sync = yes

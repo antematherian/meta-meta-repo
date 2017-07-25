@@ -1,6 +1,0 @@
-[text-kit]
-location = /var/git/text-kit
-sync-type = git
-sync-uri = https://github.com/funtoo/text-kit
-sync-branch = master
-auto-sync = yes

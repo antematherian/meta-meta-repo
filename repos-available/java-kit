@@ -1,6 +1,0 @@
-[java-kit]
-location = /var/git/java-kit
-sync-type = git
-sync-uri = https://github.com/funtoo/java-kit
-sync-branch = master
-auto-sync = yes

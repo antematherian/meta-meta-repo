@@ -1,0 +1,7 @@
+[net-kit]
+location = /var/git/net-kit
+sync-type = git
+sync-uri = https://github.com/funtoo/net-kit
+sync-branch = master
+auto-sync = yes
+auto-sync-enforcing = yes

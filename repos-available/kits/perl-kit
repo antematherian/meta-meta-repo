@@ -1,0 +1,7 @@
+[perl-kit]
+location = /var/git/perl-kit
+sync-type = git
+sync-uri = https://github.com/funtoo/perl-kit
+sync-branch = 5.24-prime
+auto-sync = yes
+auto-sync-enforcing = yes

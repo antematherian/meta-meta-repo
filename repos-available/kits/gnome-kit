@@ -1,0 +1,7 @@
+[gnome-kit]
+location = /var/git/gnome-kit
+sync-type = git
+sync-uri = https://github.com/funtoo/gnome-kit
+sync-branch = 3.20-prime
+auto-sync = yes
+auto-sync-enforcing = yes

@@ -1,0 +1,7 @@
+[xorg-kit]
+location = /var/git/xorg-kit
+sync-type = git
+sync-uri = https://github.com/funtoo/xorg-kit
+sync-branch = 1.19-snap
+auto-sync = yes
+auto-sync-enforcing = yes

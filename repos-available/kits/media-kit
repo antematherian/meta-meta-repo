@@ -1,0 +1,7 @@
+[media-kit]
+location = /var/git/media-kit
+sync-type = git
+sync-uri = https://github.com/funtoo/media-kit
+sync-branch = 1.0-prime
+auto-sync = yes
+auto-sync-enforcing = yes

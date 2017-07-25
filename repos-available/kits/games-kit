@@ -1,0 +1,7 @@
+[games-kit]
+location = /var/git/games-kit
+sync-type = git
+sync-uri = https://github.com/funtoo/games-kit
+sync-branch = master
+auto-sync = yes
+auto-sync-enforcing = yes

@@ -1,0 +1,7 @@
+[dev-kit]
+location = /var/git/dev-kit
+sync-type = git
+sync-uri = https://github.com/funtoo/dev-kit
+sync-branch = master
+auto-sync = yes
+auto-sync-enforcing = yes

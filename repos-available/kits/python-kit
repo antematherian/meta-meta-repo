@@ -1,0 +1,7 @@
+[python-kit]
+location = /var/git/python-kit
+sync-type = git
+sync-uri = https://github.com/funtoo/python-kit
+sync-branch = 3.4-prime
+auto-sync = yes
+auto-sync-enforcing = yes

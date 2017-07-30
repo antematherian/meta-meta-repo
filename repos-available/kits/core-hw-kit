@@ -1,0 +1,7 @@
+[core-hw-kit]
+location = /var/git/core-hw-kit
+sync-type = git
+sync-uri = https://github.com/funtoo/core-hw-kit
+sync-branch = master
+auto-sync = yes
+auto-sync-enforcing = yes
